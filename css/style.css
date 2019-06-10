@@ -1,0 +1,43 @@
+.google_logo {
+    display: block;
+    width: 272px;
+    height: 92px;
+    margin: auto;
+}
+
+.search {
+    display: block;
+    margin: auto;
+}
+
+.rechercheGoogle, .chance {
+    display: inline-block;
+}
+
+.buttons {
+    text-align: center;
+}
+
+li {
+    display: inline;
+    padding: 8px;
+}
+
+.menu_top {
+    float: right;
+}
+
+.center_page {
+    margin-top: 40vh; /* poussé de la moitié de hauteur de viewport */
+    transform: translateY(-50%); /* tiré de la moitié de sa propre hauteur */
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
